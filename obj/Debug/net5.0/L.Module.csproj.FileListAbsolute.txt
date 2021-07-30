@@ -1,0 +1,12 @@
+C:\Users\Lance\Documents\通普\Hmiot\L.Module\bin\Debug\net5.0\L.Module.deps.json
+C:\Users\Lance\Documents\通普\Hmiot\L.Module\bin\Debug\net5.0\L.Module.dll
+C:\Users\Lance\Documents\通普\Hmiot\L.Module\bin\Debug\net5.0\ref\L.Module.dll
+C:\Users\Lance\Documents\通普\Hmiot\L.Module\bin\Debug\net5.0\L.Module.pdb
+C:\Users\Lance\Documents\通普\Hmiot\L.Module\obj\Debug\net5.0\L.Module.csproj.AssemblyReference.cache
+C:\Users\Lance\Documents\通普\Hmiot\L.Module\obj\Debug\net5.0\L.Module.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lance\Documents\通普\Hmiot\L.Module\obj\Debug\net5.0\L.Module.AssemblyInfoInputs.cache
+C:\Users\Lance\Documents\通普\Hmiot\L.Module\obj\Debug\net5.0\L.Module.AssemblyInfo.cs
+C:\Users\Lance\Documents\通普\Hmiot\L.Module\obj\Debug\net5.0\L.Module.csproj.CoreCompileInputs.cache
+C:\Users\Lance\Documents\通普\Hmiot\L.Module\obj\Debug\net5.0\L.Module.dll
+C:\Users\Lance\Documents\通普\Hmiot\L.Module\obj\Debug\net5.0\ref\L.Module.dll
+C:\Users\Lance\Documents\通普\Hmiot\L.Module\obj\Debug\net5.0\L.Module.pdb
